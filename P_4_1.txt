@@ -1,0 +1,9 @@
+1. Kein Fehler
+2. kein Fehler
+3. kein fehler
+4. kein fehler kann man machen aber geht schief
+5. Fehler (Keine Variablenzuweisung)
+6. kein Fehler
+7. Fehler (Syntax ;, sowie keine Datentypzuweisung)
+8. Fehler (Falsche Verwendung der Kommentarfunktion) KEINE BEDEUTUNG
+9. Fehler (Syntax ;) KEINE BEDEUTUNG

@@ -1,0 +1,28 @@
+Aufgabenblatt 2 SWEP1a
+
+P2_1
+
+1. Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert ";" to complete BlockStatements
+
+	at SWEP_1/b_1_1.SimpleCalc.main(SimpleCalc.java:5)
+	
+2. Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	ont cannot be resolved to a type
+	
+3. Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "}" to complete ClassBody
+
+	at SWEP_1/b_1_1.SimpleCalc.main(SimpleCalc.java:7)
+	
+4. Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The method println(int) is undefined for the type SimpleCalc
+
+	at SWEP_1/b_1_1.SimpleCalc.main(SimpleCalc.java:6)
+	
+5. Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	i cannot be resolved to a variable
+
+	at SWEP_1/b_1_1.SimpleCalc.main(SimpleCalc.java:6)
+
+P2_2 Siehe SimpleCalc2

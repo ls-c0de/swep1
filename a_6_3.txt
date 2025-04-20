@@ -1,0 +1,34 @@
+1. 42
+//true, int
+2. -17 + 26.0
+//true, double -17 wird double gecastet
+3. 2,3
+//false, weil komma geht nicht
+4. 1.1*(10^8)
+//true
+5. 'Hi!'
+//false, da String deklaration fehlt
+6. TRUE
+//false, da boolean alles klein schreibt
+7. 3.14e0
+//false, da e kein int ist
+// e10 = 10 hoch 0, nur bei double
+8. b
+//false, da keine zuweisung und kein datentyp
+9. 2 + 3 + "H" + 4 + 5
+//true, aber nur eine konkatenation
+10. 1.000.000
+//true, ist aber double
+11. 016 + 16 - 0x16
+//true 016 = Oktal ist int
+12. 3/4*4.0
+//true
+13. 2 * 3 * "H" * 4 * 5
+//false
+14. (byte)4 * 2L
+//false, da 2L nicht geht
+15. (byte)255 + (byte)5
+//geht aus dem datentyp heraus, könnte aber funktionieren (Ausgabe 5)
+// byte(255) = -1b, ausgabe in int, da mit byte in java nicht gerechnet werden kann
+16. false
+//true, boolean false

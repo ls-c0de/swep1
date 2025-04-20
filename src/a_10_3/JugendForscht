@@ -1,0 +1,44 @@
+System.out.println(Math.exp(2));
+	euler nummer hoch 2 (double)
+
+System.out.println(Math.pow(2, 2));
+	2 mit der Potenz 2
+
+String s="Hallo"; int i=s.indexOf("o"); System.out.println(i);
+	Ausgabe der position wo der erste char "o" vorkommt
+	
+String t="Hallo"; if (t.startsWith("www")) System.out.println("web");
+	fängt der string mit www an? 
+
+System.out.println(new Formatter().format("KW %d / %4d", 2, 2012));
+    %s - insert a string
+    %Yd - insert a signed integer (decimal)
+    %f - insert a real number, standard notation
+	Y = Länge des zu insertenden
+
+for (String u: "Hallo liebe SWEP-Studenten".split(" ")) System.out.println(u);
+	.split() returns ein string array
+	
+	
+	
+Wie können Sie die folgenden Probleme unter Verwendung der Java-Bibliotheken lösen?
+• Ausgabe des int-Wertes 4711 zur Basis 8. Finden Sie zwei Möglichkeiten.
+	rekursiv und iterativ möglich 
+	
+• Ausgabe der vergangenen Millisekunden seit 1.1.1970 Mitternacht
+	system.currenttimemillis
+	
+• Ausgabe der hexadezimalen Darstellung von 3.4 als double-Wert.
+	Double.toHexString
+	
+• Berechnung von trigonometrischen Funktionen mit Grad-Winkeln.
+	Math.sin(y);
+	
+• Bearbeitung von Zeichenketten mit veränderlicher Zeichenzahl.
+	?
+
+• Berechnung der Hypotenuse in einem Dreieck.
+	math.sqrt
+	
+
+
