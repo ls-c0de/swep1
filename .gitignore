@@ -1,2 +1,7 @@
 /src/inputTools/InputTools.java
 /bin
+
+#eclipse ide
+/.settings
+.classpath
+.project
